@@ -1,0 +1,156 @@
+/*  CSS BOILERPLATE*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+/* MAIN DIV*/
+.main{
+    width: 100%;
+    height: 100%;
+}
+
+/* HADING*/
+.hading{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hading h4{
+    font-size: 4vmin;
+    text-transform: uppercase;
+}
+
+/* DITAILS*/
+.ditail{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5vmin;
+    padding-right: 10vmin;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+}
+.box h1{
+    font-size: 5vmin;
+}
+.box h3{
+    font-size: 3vmin;
+}
+.box1 img{
+    height: 30vmin;
+}
+
+/* OBJECTIVE */
+.obj h2{
+    background-color: rgb(150, 218, 245);
+    font-size: 3vmin;
+    margin-left: 3vmin;
+    margin-right: 3vmin;
+    border-radius: 1vmin;
+    padding-left: 2vmin;
+    margin-top: 2vmin;
+    height: 4vmin;
+    display: flex;
+    align-items: center;
+}
+.obj-ditail p{
+    padding-left: 8vmin;
+    font-size: 3vmin;
+    padding-right: 3vmin;
+    padding-top: 2vmin;
+}
+
+/* EDUCATIONAL QUALIFICATION */
+.eq h2{
+    background-color: rgb(150, 218, 245);
+    font-size: 3vmin;
+    margin-left: 3vmin;
+    margin-right: 3vmin;
+    border-radius: 1vmin;
+    padding-left: 2vmin;
+    margin-top: 2vmin;
+    height: 4vmin;
+    display: flex;
+    align-items: center;
+}
+.clg{
+    padding-left: 8vmin;
+    font-size: 3vmin;
+    padding-right: 3vmin;
+    padding-top: 2vmin;
+}
+.clg .persetage{
+    padding-left: 3vmin;
+}
+
+/* TECHNICAL SKILLS */
+.tec-s h2{
+    background-color: rgb(150, 218, 245);
+    font-size: 3vmin;
+    margin-left: 3vmin;
+    margin-right: 3vmin;
+    border-radius: 1vmin;
+    padding-left: 2vmin;
+    margin-top: 2vmin;
+    height: 4vmin;
+    display: flex;
+    align-items: center;
+}
+.tec-s-ditail{
+    padding-left: 8vmin;
+    font-size: 3vmin;
+    padding-right: 3vmin;
+    padding-top: 2vmin;
+}
+
+/* WORK EXPERIENCE */
+.we h2{
+    background-color: rgb(150, 218, 245);
+    font-size: 3vmin;
+    margin-left: 3vmin;
+    margin-right: 3vmin;
+    border-radius: 1vmin;
+    padding-left: 2vmin;
+    margin-top: 2vmin;
+    height: 4vmin;
+    display: flex;
+    align-items: center;
+}
+.we-ditail{
+    padding-left: 8vmin;
+    font-size: 3vmin;
+    padding-right: 3vmin;
+    padding-top: 2vmin;
+}
+
+/* STRENGTH & HOBBIES */
+.sh h2{
+    background-color: rgb(150, 218, 245);
+    font-size: 3vmin;
+    margin-left: 3vmin;
+    margin-right: 3vmin;
+    border-radius: 1vmin;
+    padding-left: 2vmin;
+    margin-top: 2vmin;
+    height: 4vmin;
+    display: flex;
+    align-items: center;
+}
+.sh-ditail{
+    padding-left: 8vmin;
+    font-size: 3vmin;
+    padding-right: 3vmin;
+    padding-top: 2vmin;
+    padding-bottom: 8vmin;
+}
