@@ -6,4 +6,4 @@ Personal Portfolio & Resume
 A responsive website showcasing a personal portfolio and resume, featuring educational qualifications, technical skills, work experience, and contact links. Designed for developers and job seekers to present their professional profile online.
 
 
-**Live Site:** https://laxmanrr.github.io/Resume/
+**Live Site:** https://laxmanrr.github.io/Personal_Portfolio__Resume/
