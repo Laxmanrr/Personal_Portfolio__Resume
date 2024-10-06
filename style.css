@@ -134,6 +134,38 @@ html, body{
     padding-top: 2vmin;
 }
 
+/* PROJECTS */
+.project h2{
+    background-color: rgb(150, 218, 245);
+    font-size: 3vmin;
+    margin-left: 3vmin;
+    margin-right: 3vmin;
+    border-radius: 1vmin;
+    padding-left: 2vmin;
+    margin-top: 2vmin;
+    height: 4vmin;
+    display: flex;
+    align-items: center;
+}
+.cp {
+    padding-left: 8vmin;
+    font-size: 3vmin;
+    padding-right: 3vmin;
+    padding-top: 2vmin;
+}
+.pr{
+    padding-left: 8vmin;
+    font-size: 3vmin;
+    padding-right: 3vmin;
+    padding-top: 2vmin;
+}
+.sc{
+    padding-left: 8vmin;
+    font-size: 3vmin;
+    padding-right: 3vmin;
+    padding-top: 2vmin;
+}
+
 /* STRENGTH & HOBBIES */
 .sh h2{
     background-color: rgb(150, 218, 245);
